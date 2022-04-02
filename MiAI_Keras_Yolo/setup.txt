@@ -1,0 +1,6 @@
+numpy
+tensorflow==1.15.0
+keras==2.3.0
+pillow
+opencv-python
+opencv-python-headless
